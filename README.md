@@ -1,165 +1,107 @@
 <div align="center">
 
-<!-- Header with Wave Effect -->
+<!-- Header -->
 
-Full Stack Developer & Open Source Enthusiast
+# 👋 Hi, I'm Kakvey Ket  
+### Full Stack Developer & Open Source Enthusiast
 
-<!-- Socials / Contact -->
+<!-- Socials -->
 
 <p align="center">
-<a href="mailto:your-email@example.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
-</a>
-<a href="https://linkedin.com/in/yourprofile">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
-</a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-
-<!-- Intro Section -->
 
 </div>
 
-👋 About Me
+---
 
-🔭 I’m currently working on Advanced System Architecture
+## 👨‍💻 About Me
 
-🌱 I’m currently learning Full Stack Development
+- 🔭 Currently working on **Advanced System Architecture**
+- 🌱 Learning **Full Stack Development**
+- 👯 Open to collaborating on **Open Source Projects**
+- 💬 Ask me about **Vue.js, React, Node.js, Python**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: *I code in my sleep 😄*
 
-👯 I’m looking to collaborate on Open Source Projects
-
-💬 Ask me about React, Node.js, and Python
-
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I code in my sleep!
-
-<!-- Tech Stack Section -->
+---
 
 <div align="center">
 
-🚀 Technology Stack
+## 🚀 Technology Stack
 
-<table align="center">
+<table>
 <tr>
 <td align="center" width="90">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact" width="48" height="48" alt="React" />
-
-
-
-
-React
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" /><br/>React
 </td>
 <td align="center" width="90">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs" width="48" height="48" alt="JavaScript" />
-
-
-
-
-JavaScript
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" /><br/>JavaScript
 </td>
 <td align="center" width="90">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dtailwind" width="48" height="48" alt="Tailwind" />
-
-
-
-
-Tailwind
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" /><br/>Tailwind
 </td>
 <td align="center" width="90">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dvue" width="48" height="48" alt="Vue" />
-
-
-
-
-Vue.js
+<img src="https://skillicons.dev/icons?i=vue" width="48" height="48" /><br/>Vue.js
 </td>
 </tr>
+
 <tr>
 <td align="center" width="90">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs" width="48" height="48" alt="Node.js" />
-
-
-
-
-Node.js
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" /><br/>Node.js
 </td>
 <td align="center" width="90">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython" width="48" height="48" alt="Python" />
-
-
-
-
-Python
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" /><br/>Python
 </td>
 <td align="center" width="90">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpostgres" width="48" height="48" alt="PostgreSQL" />
-
-
-
-
-Postgres
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" /><br/>PostgreSQL
 </td>
 <td align="center" width="90">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmongo" width="48" height="48" alt="MongoDB" />
-
-
-
-
-MongoDB
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" /><br/>MongoDB
 </td>
 </tr>
+
 <tr>
 <td align="center" width="90">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Ddocker" width="48" height="48" alt="Docker" />
-
-
-
-
-Docker
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" /><br/>Docker
 </td>
 <td align="center" width="90">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit" width="48" height="48" alt="Git" />
-
-
-
-
-Git
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" /><br/>Git
 </td>
 <td align="center" width="90">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dfigma" width="48" height="48" alt="Figma" />
-
-
-
-
-Figma
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" /><br/>Figma
 </td>
 <td align="center" width="90">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dlinux" width="48" height="48" alt="Linux" />
-
-
-
-
-Linux
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" /><br/>Linux
 </td>
 </tr>
 </table>
 
-<!-- Stats Section -->
-
-📊 GitHub Stats
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DKakveyKet%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue" alt="KakveyKet's Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DKakveyKet%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" alt="Top Languages" />
-</p>
-
 </div>
+
+---
 
 <div align="center">
-<sub>Built with ❤️ by <a href="https://www.google.com/search?q=https://github.com/KakveyKet">KakveyKet</a></sub>
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=KakveyKet&show_icons=true&theme=radical&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakveyKet&layout=compact&theme=radical&hide_border=true" height="160" />
+
 </div>
 
-<!---
-KakveyKet/KakveyKet is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+<div align="center">
+  <sub>Built with ❤️ by <a href="https://github.com/KakveyKet">KakveyKet</a></sub>
+</div>
+
+<!--
+KakveyKet/KakveyKet is a ✨ special ✨ repository because its README.md
+appears on your GitHub profile.
+-->
