@@ -1,18 +1,17 @@
 <div align="center">
 
-<!-- Header -->
-
 # 👋 Hi, I'm Kakvey Ket  
 ### Full Stack Developer & Open Source Enthusiast
 
-<!-- Socials -->
-
 <p align="center">
+  <a href="https://kakeydev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="mailto:kakveyket408@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/kakvey-ket-b22203364">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -25,7 +24,7 @@
 - 🔭 Currently working on **Advanced System Architecture**
 - 🌱 Learning **Full Stack Development**
 - 👯 Open to collaborating on **Open Source Projects**
-- 💬 Ask me about **Vue.js, React, Node.js, Python**
+- 💬 Ask me about **Vue.js, React, Node.js, Python, & Django**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: *I code in my sleep 😄*
 
@@ -33,8 +32,9 @@
 
 <div align="center">
 
-## 🚀 Technology Stack
+## 🚀 Technology Stack & Tools
 
+### Core Technologies
 <table>
 <tr>
 <td align="center" width="90">
@@ -82,6 +82,22 @@
 </tr>
 </table>
 
+<br>
+
+### Frameworks, CMS & AI
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/WordPress-117BAC?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Elementor-D30C5C?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
+  <img src="https://img.shields.io/badge/Webhooks-005C84?style=for-the-badge&logo=webhooks&logoColor=white" alt="Webhooks" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white" alt="Copilot" />
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok" />
+</p>
+
 </div>
 
 ---
@@ -100,8 +116,3 @@
 <div align="center">
   <sub>Built with ❤️ by <a href="https://github.com/KakveyKet">KakveyKet</a></sub>
 </div>
-
-<!--
-KakveyKet/KakveyKet is a ✨ special ✨ repository because its README.md
-appears on your GitHub profile.
--->
