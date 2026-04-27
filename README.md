@@ -68,8 +68,7 @@
 
 <tr>
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=digitalocean" width="48" height="48" /><br/>DigitalOcean
-</td>
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" /><br/>Docker</td>
 <td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=git" width="48" height="48" /><br/>Git
 </td>
